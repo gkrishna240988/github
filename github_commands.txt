@@ -1,0 +1,18 @@
+Check global configuration for git in terminal/command prompt
+- git config --global --list
+
+Set global username for git in terminal/command prompt
+- git config --global user.name "your_user_name"
+
+Set global email for git in terminal/command prompt
+- git config --global user.email "your_email"
+
+Commit - Snapshot of a repository at one point of time.
+
+Modified Files - Changed since last commit.
+
+Untracked Files - Not yet commited.
+
+Staged Files - Adding files to Index Area to be commited.(Ready to commit)
+
+Commited - Files that have been permanently added to the repository.
